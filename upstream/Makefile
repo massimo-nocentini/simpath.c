@@ -20,8 +20,8 @@ cweave:
 
 ctangle:
 	ctangle simpath.w
-	ctangle simpath.w simpath-cycles.ch sympath-cycles.c
-	ctangle simpath.w simpath-ham.ch sympath-ham.c
-	ctangle simpath.w simpath-ham-any.ch sympath-ham-any.c
+	ctangle simpath.w simpath-cycles.ch simpath-cycles.c
+	ctangle simpath.w simpath-ham.ch simpath-ham.c
+	ctangle simpath.w simpath-ham-any.ch simpath-ham-any.c
 	ctangle simpath-reduce.w
 	ctangle simpath-directed-cycles.w
