@@ -5,3 +5,4 @@ upstream/*.scn
 upstream/*.toc
 upstream/*.dvi
 src/simpath
+src/simpath-cycles

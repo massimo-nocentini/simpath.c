@@ -15,8 +15,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <gb_graph.h>
-#include <gb_save.h>
+#include "gb_graph.h"
+#include "gb_save.h"
 unsigned char mem[memsize];
 unsigned long long tail, boundary, head;
 unsigned int htable[htsize];

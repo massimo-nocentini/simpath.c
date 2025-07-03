@@ -110,7 +110,7 @@ void printstate(int j, int jj, int ll)
 /*:13*/
 #line 41 "simpath.w"
 
-main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     register int i, j, jj, jm, k, km, l, ll, m, n, t, hash;
     register Graph *g;
