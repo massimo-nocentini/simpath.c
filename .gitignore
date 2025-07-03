@@ -6,3 +6,7 @@ upstream/*.toc
 upstream/*.dvi
 src/simpath
 src/simpath-cycles
+src/simpath-ham
+src/simpath-ham-any
+src/simpath-directed-cycles
+src/simpath-reduce
