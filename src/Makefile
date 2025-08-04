@@ -9,3 +9,8 @@ build:
 
 install:
 	install -Dm755 simpath-reduce /usr/local/bin/simpath-reduce
+	install -Dm755 simpath /usr/local/bin/simpath
+	install -Dm755 simpath-cycles /usr/local/bin/simpath-cycles
+	install -Dm755 simpath-ham /usr/local/bin/simpath-ham
+	install -Dm755 simpath-ham-any /usr/local/bin/simpath-ham-any
+	install -Dm755 simpath-directed-cycles /usr/local/bin/simpath-directed-cycles
